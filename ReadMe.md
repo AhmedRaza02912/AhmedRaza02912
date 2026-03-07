@@ -20,9 +20,6 @@
 
 ## 🚀 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,vite,mongodb,mysql,sqlite,git,github,vscode" />
-</p>
 
 ---
 
