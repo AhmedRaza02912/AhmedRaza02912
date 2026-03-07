@@ -38,6 +38,10 @@
 <p align="center">
 <a href="mailto:iahmedrazza@gmail.com">
 <img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-raza-635a69307/" target="_blank">
+<a href="https://linkedin.com/in/" target="_blank">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
 </a>
 </p>
 
