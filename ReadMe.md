@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Raza</h1>
+<h1 align="center">Hello there this is  Ahmed</h1>
 <h3 align="center">Backend Developer | ASP.NET | React | Database Systems</h3>
 
 ---
@@ -11,12 +11,6 @@
 - 📚 Learning **Backend Architecture & Scalable APIs**
 - 💡 Interested in **Cloud, Databases, and System Design**
 - 📫 Reach me at **iahmedrazza@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-
 ---
 
 ## 📊 GitHub Stats
