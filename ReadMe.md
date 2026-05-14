@@ -5,11 +5,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **ASP.NET Web APIs**
-- ⚡ Building **full stack applications using React + .NET**
-- 🗄️ Working with **MongoDB, MySQL, and SQLite**
+- 🔭 Currently working on **ASP.NET, Blazor, React**
+- 🗄️ Working with **MongoDB, MySQL, SQL Server, and SQLite**
 - 📚 Learning **Backend Architecture & Scalable APIs**
-- 💡 Interested in **Cloud, Databases, and System Design**
 - 📫 Reach me at **iahmedrazza@gmail.com**
 ---
 
