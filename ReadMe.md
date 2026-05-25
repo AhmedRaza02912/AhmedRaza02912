@@ -1,5 +1,5 @@
 <h1 align="center">Hello there this is  Ahmed</h1>
-<h3 align="center">Backend Developer | ASP.NET | React | Database Systems</h3>
+<h3 align="center">Backend is really fun</h3>
 
 ---
 
