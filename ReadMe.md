@@ -10,6 +10,11 @@
 - 📚 Learning **Backend Architecture & Scalable APIs**
 - 📫 Reach me at **iahmedrazza@gmail.com**
 ---
+<h2>⚡ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,python,cpp,mysql,mongodb,tensorflow,flutter,sqlite,angular&theme=dark" />
+</p>
 
 ## 📊 GitHub Stats
 
