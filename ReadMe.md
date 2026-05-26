@@ -13,7 +13,7 @@
 <h2>⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,python,cpp,mysql,mongodb,tensorflow,flutter,sqlite,angular&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postman,python,cpp,mysql,mongodb,tensorflow,flutter,sqlite,react,angular&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
