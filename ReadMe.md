@@ -1,14 +1,12 @@
 <h1 align="center">Hello there this is  Ahmed</h1>
-<h3 align="center">Backend is really fun</h3>
-
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **ASP.NET, Blazor, React**
-- 🗄️ Working with **MongoDB, MySQL, SQL Server, and SQLite**
-- 📚 Learning **Backend Architecture & Scalable APIs**
-- 📫 Reach me at **iahmedrazza@gmail.com**
+-  Currently working on **ASP.NET, Blazor, React**
+-  Working with **MongoDB, MySQL, SQL Server, and SQLite**
+-  Learning **Backend Architecture & Scalable APIs**
+-  Reach me at **iahmedrazza@gmail.com**
 ---
 <h2>⚡ Tech Stack</h2>
 
