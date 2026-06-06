@@ -1,6 +1,4 @@
 <h1 align="center">Hello there this is  Ahmed</h1>
----
-
 ## 👨‍💻 About Me
 
 -  Currently working on **ASP.NET, Blazor, React**
