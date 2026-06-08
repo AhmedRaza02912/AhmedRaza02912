@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 -  Currently working on **ASP.NET, Blazor, React**
--  Working with **MongoDB, MySQL, SQL Server, and SQLite**
+-  Worked with **MongoDB, MySQL, SQL Server, and SQLite**
 -  Learning **Backend Architecture & Scalable APIs**
 -  Reach me at **iahmedrazza@gmail.com**
 ---
