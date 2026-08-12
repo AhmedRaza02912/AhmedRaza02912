@@ -56,7 +56,6 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 #### 🌐 Frontend
@@ -127,25 +126,11 @@ The platform uses an **ASP.NET Web API backend** and **Angular frontend**, with 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedRaza02912&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedRaza02912&layout=compact&theme=tokyonight" />
-</p>
-
 ### 📈 GitHub Activity
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=YOUR_USER_ID" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_USER_ID&color_scheme=dark">
-    <img
-      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=YOUR_USER_ID&color_scheme=light">
-  </picture>
-</a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRaza02912&theme=tokyo-night" />
+</p>
 
 ---
 
