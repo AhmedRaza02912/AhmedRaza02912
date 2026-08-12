@@ -129,7 +129,7 @@ The platform uses an **ASP.NET Web API backend** and **Angular frontend**, with 
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRaza02912&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRaza02912&theme=react-dark" />
 </p>
 
 ---
