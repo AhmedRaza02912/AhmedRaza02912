@@ -20,12 +20,10 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
 
 ### 👨‍💻 About Me
 
-* 🎓 Computer Science student at **COMSATS University**
 * 💻 **.NET Developer** with a strong interest in backend engineering
 * 🚀 Building applications with **C#, ASP.NET Core, REST APIs and modern frontend frameworks**
 * 🗄️ Experienced with relational and NoSQL databases
 * 🧠 Currently exploring **backend architecture, scalable APIs and cloud technologies**
-* 🤝 Open to collaborating on interesting software engineering projects
 
 ---
 
