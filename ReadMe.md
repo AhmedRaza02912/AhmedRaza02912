@@ -1,6 +1,6 @@
 # Hello there 👋
 
-## Computer Science Student | .NET Developer 🚀
+## Computer Science Student | .NET Developer 
 
 I'm a **Computer Science student and .NET Developer** focused on building modern, reliable and scalable applications. I enjoy working across backend development, APIs, databases and modern frontend technologies.
 
