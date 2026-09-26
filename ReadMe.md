@@ -126,4 +126,36 @@ A 2D tennis game developed using **Flutter and the Flame game engine**, featurin
 
 A full-stack **student community platform** designed to help university students share knowledge and collaborate.
 
-Students can u
+Students can upload **study tips, share projects and participate in discussions**, creating a centralized platform for academic collaboration and resource sharing.
+
+The platform uses an **ASP.NET Web API backend** and **Angular frontend**, with **SQL Server** for data management and **Java Web Authentication** for user authentication.
+
+**Tech:** `.NET Web API` `C#` `Angular` `JavaScript` `SQL Server` `Java Web Authentication`
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRaza02912&theme=react-dark" />
+</p>
+
+---
+
+### Let's Connect
+
+I'm always interested in discussing **.NET development, backend engineering, software architecture, cloud technologies, and interesting software projects(more interesting if it is related to F1 or tennis ;) )**.
+
+<p align="center">
+  <a href="mailto:iahmedrazza@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ahmed-raza-635a69307">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Feel free to explore my repositories and connect with me.
+</p>
