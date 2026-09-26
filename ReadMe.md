@@ -1,8 +1,8 @@
-# Hello there 👋
+# Hello there
 
-## Computer Science Student | .NET Developer 
+## Computer Science Student | .NET Developer
 
-I'm a **Computer Science student and .NET Developer** focused on building modern, reliable and scalable applications. I enjoy working across backend development, APIs, databases and modern frontend technologies.
+I'm a **Computer Science student and .NET Developer** focused on building modern, reliable and scalable applications. I enjoy working across backend development, APIs, databases, cloud technologies and modern frontend frameworks.
 
 <!-- Badges -->
 
@@ -18,18 +18,18 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 💻 **.NET Developer** with a strong interest in backend engineering
-* 🚀 Building applications with **C#, ASP.NET Core, REST APIs and modern frontend frameworks**
-* 🗄️ Experienced with relational and NoSQL databases
-* 🧠 Currently exploring **backend architecture, scalable APIs and cloud technologies**
+* **.NET Developer** with a strong interest in backend engineering
+* Building applications with **C#, ASP.NET Core, REST APIs and modern frontend frameworks**
+* Experienced with relational and NoSQL databases
+* Exploring **backend architecture, scalable APIs, cloud technologies and DevOps**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 💻 Languages
+#### Languages
 
 <p>
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -39,16 +39,17 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### ⚙️ Backend & APIs
+#### Backend & APIs
 
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=swagger&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+#### Databases
 
 <p>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
@@ -56,7 +57,7 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-#### 🌐 Frontend
+#### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -65,14 +66,22 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-#### 📱 Mobile & Game Development
+#### Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Container%20Apps-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20Container%20Registry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+#### Mobile & Game Development
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Flame-0175C2?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-#### 🔧 Tools
+#### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -82,19 +91,20 @@ I'm a **Computer Science student and .NET Developer** focused on building modern
 
 ---
 
-### 🌱 Currently Improving
+### Currently Improving
 
-* 🔹 Advanced **.NET backend architecture**
-* 🔹 RESTful API design and development
-* 🔹 Database design and optimization
-* 🔹 Scalable and maintainable software architecture
-* 🔹 Cloud deployment and DevOps practices
+* Advanced **.NET backend architecture**
+* RESTful API design and development
+* **FastAPI and Python backend development**
+* Database design and optimization
+* Scalable and maintainable software architecture
+* **Azure cloud deployment and DevOps practices**
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-### 🏎️ Tangent — Motorsport Dashboard
+### Tangent — Motorsport Dashboard
 
 A full-stack motorsport dashboard built using **React and .NET Web API**.
 
@@ -104,7 +114,7 @@ The application integrates motorsport APIs to provide race information, driver s
 
 ---
 
-### 🎾 Wimbledon — Tennis Game
+### Wimbledon — Tennis Game
 
 A 2D tennis game developed using **Flutter and the Flame game engine**, featuring gameplay mechanics, player controls, scoring and game state management. **SQLite** was used for local data persistence.
 
@@ -112,40 +122,8 @@ A 2D tennis game developed using **Flutter and the Flame game engine**, featurin
 
 ---
 
-### 🎓 UniPortal — University Student Portal
+### UniPortal — University Student Portal
 
 A full-stack **student community platform** designed to help university students share knowledge and collaborate.
 
-Students can upload **study tips, share projects and participate in discussions**, creating a centralized platform for academic collaboration and resource sharing.
-
-The platform uses an **ASP.NET Web API backend** and **Angular frontend**, with **SQL Server** for data management and **Java Web Authentication** for user authentication.
-
-**Tech:** `.NET Web API` `C#` `Angular` `JavaScript` `SQL Server` `Java Web Authentication`
-
----
-
-### 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedRaza02912&theme=react-dark" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-I'm always interested in discussing **.NET development, backend engineering, software architecture, and interesting software projects**.
-
-<p align="center">
-  <a href="mailto:iahmedrazza@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ahmed-raza-635a69307">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+Students can u
